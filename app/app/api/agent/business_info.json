@@ -1,0 +1,31 @@
+{
+  "businessName": "YOUR_BUSINESS_NAME",
+  "tagline": "YOUR_BUSINESS_TAGLINE",
+  "overview": "YOUR_BUSINESS_OVERVIEW",
+  "services": [
+    {
+      "name": "YOUR_SERVICE_1_NAME",
+      "description": "YOUR_SERVICE_1_DESCRIPTION"
+    },
+    {
+      "name": "YOUR_SERVICE_2_NAME",
+      "description": "YOUR_SERVICE_2_DESCRIPTION"
+    },
+    {
+      "name": "YOUR_SERVICE_3_NAME",
+      "description": "YOUR_SERVICE_3_DESCRIPTION"
+    }
+  ],
+  "pricing": {
+    "startingPrice": "YOUR_STARTING_PRICE_OR_PRICING_MODEL",
+    "note": "YOUR_PRICING_NOTE"
+  },
+  "cta": {
+    "message": "YOUR_CALL_TO_ACTION_MESSAGE",
+    "links": {
+      "booking": "YOUR_BOOKING_LINK",
+      "whatsapp": "YOUR_WHATSAPP_LINK",
+      "website": "YOUR_WEBSITE_LINK"
+    }
+  }
+}
