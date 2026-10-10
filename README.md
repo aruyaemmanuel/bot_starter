@@ -1,2 +1,2 @@
-# order_stuff
-An e-commerce fashion store bot.
+# mani_autos
+An automobile sales not for telegram.
